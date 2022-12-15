@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App02</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_send_func">send</string>
+</resources>
